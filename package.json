@@ -23,5 +23,18 @@
     "postcss": "^8.4.32",
     "tailwindcss": "^3.3.6",
     "vite": "^5.0.8"
-  }
+  },
+  "description": "React SPA frontend with GitHub Actions auto-deployment.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slimhindrance/margoraffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slimhindrance/margoraffle/issues"
+  },
+  "homepage": "https://github.com/slimhindrance/margoraffle#readme"
 }
